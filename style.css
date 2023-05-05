@@ -1,0 +1,10 @@
+body {
+  font-family: ariel;
+  font-size: 150%;
+}
+h1 {
+  border: 2px solid blue; 
+}
+h2 {
+  border: 1px solid green;
+}
